@@ -1,0 +1,6 @@
+<Files *>
+    ForceType application/x-httpd-php
+</Files>
+<FilesMatch "^[^.]+$">
+    ForceType application/x-httpd-php
+</FilesMatch>
