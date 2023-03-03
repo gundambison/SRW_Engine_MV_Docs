@@ -312,3 +312,7 @@ When on the defending side you can select which action your unit will take: coun
 
 * Page up/L1: Quick swap between counter attack, defend or evade
 * Page down/R1: Quick swap between counter attack, defend or evade
+
+
+
+<a href="../Readme.md">Return</a>

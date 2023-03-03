@@ -2248,4 +2248,6 @@ The displayed number is separate from the map id because a game might have multi
 
 ### Stage Flow
 
+<a href="../Readme.md">Return</a>
+
 The normal flow of a SRW game will see the player go from stage to intermission to the next stage and so on. 

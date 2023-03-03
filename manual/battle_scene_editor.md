@@ -249,3 +249,6 @@ Each Animation Command can have the following attributes:
 **You can hover over the "Command" text or the name of a Parameter to see a tooltip with more information.**<br>
 For more information on the Animation Commands and their parameters please refer to the [Animation Command list.](battle_animation_commands.md)
 
+
+
+<a href="../Readme.md">Return</a>

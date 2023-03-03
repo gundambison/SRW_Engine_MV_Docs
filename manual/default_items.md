@@ -293,3 +293,5 @@ Description: Restores Ammo to Max at the start of Player Phase.
 Name: Soldier's Medallion
 
 Description: Max Morale +30.
+
+<a href="../Readme.md">Return</a>

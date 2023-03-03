@@ -438,3 +438,7 @@ Target: The id of the animation that will be removed.
 Stop a running RMMV screen animation after the next loop.
 
 Target: The id of the animation that will be stopped.
+
+
+
+<a href="../Readme.md">Return</a>

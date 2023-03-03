@@ -245,3 +245,5 @@ Description: When triggered, negates damage from physical weapons. The chance to
 Name: Shoot Down
 
 Description: Allows the pilot to deflect funnel and missile attacks. Activation depends on Skill stat difference with the enemy.
+
+<a href="../Readme.md">Return</a>

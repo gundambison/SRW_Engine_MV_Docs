@@ -4,7 +4,7 @@
 <tbody>
 	<tr>
 	<td><a href='manual/how_to.md'>SRW Engine MV How To v1.0</a></td>
-	<td>&nbsp;</td>
+	<td>Creating a project&nbsp;</td>
 	</tr>
 	<tr>
 	<td><a href='manual/manual.md'>SRW Engine MV User Manual V2.0</a></td>

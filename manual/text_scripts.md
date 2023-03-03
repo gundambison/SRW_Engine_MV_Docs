@@ -135,3 +135,5 @@ Example: [unlockUnit:] or [moveEventToActor: 5 1]<br>
 There is no need to use the pluginCmd command.
 
 See the general manual for info on the functionality of the Plugin Commands.
+
+<a href="../Readme.md">Return</a>

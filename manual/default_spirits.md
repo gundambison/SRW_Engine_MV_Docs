@@ -209,3 +209,5 @@ Description: Grants an ally unit one extra action. You cannot stack this effect.
 Name: Gain
 
 Description: Increases EXP gained by 100% for the next battle.
+
+<a href="../Readme.md">Return</a>

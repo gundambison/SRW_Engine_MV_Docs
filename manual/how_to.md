@@ -243,3 +243,6 @@ Use the this.awardSRPoint(); script command to award an SR point when the condit
 * The end of every map should set the following two variables:
 	* nextMap(#11): The map id of the next map after the intermission(check the bottom bar in rpg maker when selecting a map to see the id)	
 	* lastStageId(#23): The id of the current map. Used to display the last map played on the intermission
+	
+	
+<a href="../Readme.md">Return</a>
